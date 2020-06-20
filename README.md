@@ -47,7 +47,7 @@ located in this directory. The `<link>` tag will link to our file with an
 
 The `href` attribute should point to the file `style.css` which is located in
 this directory using a _relative path_. The `rel` attribute is used to note
-that the file which is being linked has a **rel**ation of being a "stylesheet."
+that the file which is being linked has  a relation of being a "stylesheet."
 
 Now, what is a relative path? You could write `href="style.css"` and the
 content of `style.css` would change your `index.html` file. But we want to
